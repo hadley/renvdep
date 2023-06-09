@@ -13,3 +13,5 @@ RoxygenNote: 7.2.3
 Imports: 
     renv
 Config/testthat/edition: 3
+URL: https://github.com/hadley/renvdep
+BugReports: https://github.com/hadley/renvdep/issues
